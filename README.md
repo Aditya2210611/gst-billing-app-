@@ -62,3 +62,16 @@ Commits
 ✅ Commit III – Integrated Hive and Created HomeScreen UI
 
 ✅ Commit IV – Final Touches: UI, Validation, Layout, Testing
+
+🧭 Future Enhancements
+Invoice history with PDF generation
+
+Cloud sync and multi-user login
+
+Analytics dashboard for tax and sales reporting
+
+Barcode scanner for product input
+
+Printing and email integration
+
+
