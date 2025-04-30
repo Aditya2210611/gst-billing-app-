@@ -52,3 +52,13 @@ cd gst-billing-app
 flutter pub get
 flutter packages pub run build_runner build
 flutter run
+
+🧪 Version Control (GitHub)
+Commits
+✅ Commit I – Project Initialization
+
+✅ Commit II – Added Product & Invoice Models with GST Logic
+
+✅ Commit III – Integrated Hive and Created HomeScreen UI
+
+✅ Commit IV – Final Touches: UI, Validation, Layout, Testing
